@@ -1,16 +1,46 @@
-# es6-unit-tests
-<small>(for the English version, <a href="#en">click here</a>)</small>
-
 # JavaScript ES6 and Unit Tests
-<h2>:brazil: Português</h2>
-<p id="pt">Projeto de JavaScript desenvolvido por mim (<a href="https://www.linkedin.com/in/lucas-pereira-castanheira-nascimento-238355190/" target="_blank" rel="external">Lucas Castanheira</a>) ao final do Bloco 7 do Módulo 1 do curso de Desenvolvimento Web da <a href="https://www.betrybe.com" targe="_blank" rel="nofollow">Trybe</a>. Obtive aprovação com 90% dos requisitos obrigatórios e opcionais.</p>
-<p>O projeto consistiu no desenvolvimento de funções resolvendo desafios de lógica de programação. Também tivemos que desenvolver testes unitários com o framework Jest para verificar o comportamento esperado delas. Algumas funções já estavam implementadas e eu precisei desenvolver os testes, e alguns testes já estavam implementados e eu precisei criar as funções a serem testadas.</p>
 
-![Minha nota no projeto - My grade of the project](./notas.png)
+<h2>:brazil: Português :brazil:</h2>
+
+<p>Projeto entregue durante o curso de desenvolvimento Web ministrado pela <a href="https://www.betrybe.com" targe="_blank" rel="nofollow">Trybe</a>.</p>
+
+<p>Obtive a aprovação no projeto, completando 90% dos requisitos obrigatórios e opcionais. Efetivando, assim, a conclusão do Bloco 7 (Introdução à JavaScript ES6 e Testes Unitários) referente ao Módulo 1 (Fundamentos do Desenvolvimento Web).</p>
+
+![Minha nota no projeto](./notas.png)
+
+<p>Descrição:</p>
+
+<p>O projeto tinha como objetivo implementar várias funções para atender aos requisitos propostos e/ou testes unitários para garantir que as implementações das funções estão corretas.</p>
+
+<p>Habilidades desenvolvidas</p>
+<ol>
+<li>Escrever testes unitários para funções utilizando o módulo Jest do NodeJS para verificar o correto funcionamento dessas funções;</li>
+<li>A partir de testes já implementados, escrever funções de forma que elas atendam aos testes propostos;</li>
+<li>Escrever testes e funções utilizando uma abordagem de desenvolvimento orientado a testes.</li>
+</ol>
+
+<p><a href="https://www.linkedin.com/in/lucas-pereira-castanheira-nascimento-238355190/" targe="_blank" rel="nofollow">Meu Linkedin</a>.</p>
+
 <br>
 
-<h2 id="en">:us: English</h2>
-<p>JavaScript project developed by me (<a href="https://www.linkedin.com/in/lucas-pereira-castanheira-nascimento-238355190/" rel="external">Lucas Castanheira</a>) at the end of the Unit 7 Module 1 of the Web Development course at <a href="https://www.betrybe.com" targe="_blank" rel="nofollow">Trybe</a>. I was approved with 90% of the mandatory and optional requirements.</p>
-<p>We had to develop functions to solve programming logic challenges. We also had to develop unit tests to verify the functions' expected behavior by using the Jest framework. For functions that were already implemented, I had to develop the tests. And, for the tests that were already implemented, I had to develop the functions to be tested.</p>
+<h2>:us: English :us:</h2>
 
-![My grade of the project - Minha nota no projeto](./notas.png)
+<p>Project delivered during the Web development course taught by <a href="https://www.betrybe.com" targe="_blank" rel="nofollow">Trybe</a>.</p>
+
+<p>I passed the project, completing 90% of mandatory and optional requirements. Thus, completing Block 7 (Introduction to JavaScript ES6 and Unit Tests) referring to Module 1 (Fundamentals of Web Development).</p>
+
+![Minha nota no projeto](./notas.png)
+
+<p>Description:</p>
+
+<p>The project aimed to implement various functions to meet the proposed requirements and/or unit tests to ensure that the implementations of the functions are correct.</p>
+
+<p>Developed skills</p>
+<ol>
+<li>Write unit tests for functions using the NodeJS Jest module to verify the correct functioning of these functions;</li>
+<li>From tests already implemented, write functions so that they meet the proposed tests;</li>
+<li>Write tests and functions using a test-driven development approach.</li>
+</ol>
+
+<p><a href="https://www.linkedin.com/in/lucas-pereira-castanheira-nascimento-238355190/" targe="_blank" rel="nofollow">My Linkedin</a>.</p>
+
